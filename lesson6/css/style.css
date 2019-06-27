@@ -1,0 +1,20 @@
+.sec-sec > img{
+	width: 250px;
+}
+.sec-sec > a{
+	display: block;
+	padding-left: 20px;
+	background: transparent url("../img/basket.jpg") no-repeat 0 0;
+	-webkit-background-size: 20px;
+	background-size: 20px;
+}
+.third-sec{
+	height: 100vh;
+	background: transparent url(../img/bg.jpg);
+	background-size: cover;
+}
+.fourd-sec{
+	width: 300px;
+	height: 500px;
+	background: transparent url("../img/pattern.png");
+}
